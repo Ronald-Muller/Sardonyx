@@ -1,0 +1,171 @@
+body {margin-left: 14.25%;
+margin-right: 14.25%;
+margin-top: 0;
+margin-bottom: 0;
+font-family: Helvetica;}
+.container {display: inline-grid;
+  margin-top: auto;
+  grid-template-columns: 32.3% 67.7%;}
+
+.items {width: 100%;
+background-color: #e6b800;
+padding: auto;}
+
+.itemd {background-color: white;
+  width: 100%;
+}
+.photo {width: 56%;
+height: 12.2%;
+margin-top: 16.5%;
+margin-left: 21%;
+margin-bottom: 9%;
+border-style: solid;
+border-width: 5px;
+border-color: #cca300;
+border-radius: 100%;}
+
+.hello {text-transform: uppercase;
+font-family: 'Meera Inimai', sans-serif;
+font-weight: bold;
+color: #e6b800;
+margin-left: 8%;
+margin-top: 13%;
+font-size: 60px;
+margin-bottom: 5px;
+}
+.ups {color: black;
+font-style: normal;
+font-family: sans-serif;
+font-weight: normal;
+}
+.axe {margin-left: 8%;
+margin-top: 10px;
+font-size: 26px;
+letter-spacing: 1px;}
+.underline {text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-color: #e6b800;}
+.contact {text-align: center;
+text-transform: uppercase;
+color: #e6b800;
+background-color: #333333;
+padding-top: 2.4%;
+padding-bottom: 1.5%;
+font-weight: 500;
+font-size: 170%;}
+.header {margin-left: 10%;
+margin-bottom: 0%;
+font-weight: 100;
+margin-top: 5%;}
+.abbadon {margin-left: 10%;
+margin-top: 0.5%;
+margin-bottom: 10px;}
+.alchemist {margin-top: 9%;
+margin-left: 3%;
+font-family: Helvetica;
+font-size: 16px;
+letter-spacing: 1px;}
+.contacts {text-align: center;
+text-transform: uppercase;
+color: #e6b800;
+background-color: #333333;
+padding-top: 2.4%;
+padding-bottom: 1.5%;
+font-weight: 500;
+font-size: 170%;
+margin-top: 10.5%;}
+.bane {letter-spacing: 2px;
+margin-left: 10%;
+margin-right: 15%;
+line-height: 22px;
+margin-top: 10%;
+margin-bottom: 80%;
+font-weight: 100;}
+.contactd {text-align: center;
+text-transform: uppercase;
+color: #e6b800;
+background-color: #333333;
+padding-top: 2.4%;
+padding-bottom: 1.5%;
+font-weight: 500;
+font-size: 170%;
+margin-top: 140%;}
+.batrider {text-align: center;
+letter-spacing: 10px;
+padding-top: 10%;
+padding-bottom: 10%;
+}
+.chen {margin-left: 4%;
+font-size: 30px;
+text-transform: uppercase;
+font-weight: bold;}
+.line {margin-left: 8%;
+margin-right: 6%;
+border-color: #e6b800;
+}
+li {list-style: none;
+float: left;
+color: #e6b800;
+font-size: 15px;
+}
+.jerk {color: #e6b800;
+font-size: 10px;
+margin-right: 15px;
+}
+.rock {margin-left: 30px;}
+.kyiv {margin-left: 25px;}
+dt {float: left;
+margin-left: 8%;
+margin-top: 8px;
+}
+dd {margin-left: 300px;}
+.work {margin-top: 0px;
+font-weight: normal;}
+.working {margin-bottom: 5px;
+text-transform: uppercase;
+margin-right: 5px;
+font-weight: bold;
+font-size: 25px;}
+dl dt :: before {color: #e6b800;}
+.general{margin-right: 8%;}
+.job {text-transform: uppercase;
+margin-top: 0;
+margin-bottom: 5px;}
+.johny {margin-top: 0px;
+margin-right: 15px;}
+.markis {margin-top: -2px;
+}
+.latte {margin-top: 0px;
+margin-right: 15px;}
+.kneu {margin-top: -2px;}
+.last {display: inline-grid;
+grid-template-columns: 400px 300px;
+margin-top: 4%;
+margin-left: 8%;
+margin-right: 8%;
+}
+.lastt {text-transform: uppercase;
+}
+.herald {margin-top: 5px;
+margin-bottom: 5px;
+text-transform: none;
+font-size: 17px;}
+.luna {font-size: 17px;
+font-weight: normal;
+margin-top: 15px;}
+.list {margin-right: 10%;}
+.lasttt {text-transform: uppercase;}
+@media all and (max-width: 1430px) {
+	.last {grid-template-columns: 300px 55%;}
+	}
+
+@media all and (max-width: 1200px) {
+	.last {
+		grid-template-columns: 50% 50%;}
+}
+@media all and (max-width: 1140px) { dd {
+margin-left: 250px;	}	
+}
+@media all and (max-width: 1040px) { dd {
+margin-left: 220px;}
+}
